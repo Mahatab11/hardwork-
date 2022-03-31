@@ -1,0 +1,461 @@
+* {margin: 0px;padding: 0px;outline: 0px;box-sizing: border-box;font-family: Dosis, sans-serif;}
+.container {width: 90%;margin: auto;padding-top: 20px;}
+.heading-1{ }
+.btn { }
+.pg { }
+.row { width: 100%; float: left; }
+.col-1 { width: 8.33%; float: left; }
+.col-2 { width: 16.66%; float: left; }
+.col-3 { width: 25%; float: left; }
+.col-4 { width: 33.33%; float: left; }
+.col-5 { width: 41.66%; float: left; }
+.col-6 { width: 50%; float: left; }
+.col-7 { width: 58.33%; float: left; }
+.col-8 { width: 66.66%; float: left; }
+.col-9 { width: 75%; float: left; }
+.col-10 { width: 83.33%; float: left; }
+.col-11 { width: 91.66%; float: left; }
+.col-12 { width: 100%; float: left; }
+header { background-color: rgb(34, 48, 71); padding: 7px 15px; border-bottom: 1px solid rgb(94, 105, 122); }
+.logo-part { }
+.logo-part img { margin: 4px 0px; }
+.menu-part { text-align: center; }
+.menu-part ul { margin: 12px 0px; padding-top: 5px; }
+.menu-part li { list-style: none; display: inline-block; margin: 0px 9px; }
+.menu-part a {text-decoration: none;color: white;}
+.niser { color: rgb(255, 255, 255); }
+.btn-part { font-weight: 100; font-variant: jis04; padding: 10px 0px; }
+.btn-part button { padding: 5px 9px; border-radius: 7px; background-color: rgb(0, 255, 243); cursor: pointer; }
+.btn-part i { color: rgb(255, 255, 255); }
+.menu-part i { color: rgb(255, 255, 255); }
+.hero-heading {width: 46%;padding: 109px 0px 38px;color: rgb(255, 255, 255);}
+.hero { background-color: rgb(34, 48, 71); }
+.hero-pg {width: 79%;padding: 25px 0px 33px;color: rgb(157, 171, 193);}
+.hero-btn { padding: 9px 6px; background-color: rgb(120, 249, 255); border: none; border-radius: 7px; }
+.hero-img-part img { position: relative; left: 8%; bottom: -95px; }
+.hero-btn-light { padding: 8px 13px; border-color: white; border-radius: 8px; background-color: rgb(34, 48, 71); color: white; }
+#feature { text-align: center; padding: 75px 0px; }
+.feature-heading-part { }
+.heading {width: 31%;padding-top: 200px;padding-bottom: 78px;margin: auto;}
+.underline { display: block; border: 3px solid rgb(0, 255, 241); width: 60px; margin: auto; }
+.feature-box-part { padding-top: 83px; padding-bottom: 76px; }
+.feature-box {box-shadow: 1px 1px 3px;margin-inline-start: 54px;width: 20%;height: 274px;}
+.feature-box img { }
+.feature-box-part img { }
+.feature-box h2 {font-size: 19px;height: 55px;margin-top: 23px;}
+.feature-box p {color: #97acd3;}
+
+/* ==============color section============= */
+#color{display: inline-block;}
+.color-1{
+}
+.color-1 img{height: 380px;}
+.color-2{/* background-color: #f5f6fa; */}
+.color-heading-part{width: 73%;margin: auto;padding-top: 108px;}
+.color-heading-part h2{width: 60%;padding-bottom: 46px;}
+.color-heading-part p{color: #97a4be;}
+
+
+
+
+#colortwo{
+    display: inline-block;
+}
+.color-duo{
+}
+.color-duo-heading-part{width: 80%;text-align: end;margin: 60px;}
+.color-duo-heading-part h2{padding-bottom: 53px;padding-top: 41px;}
+.color-duo-heading-part p{padding-bottom: 40px;color: #97a4be;}
+.color-duo-heading-part button{height: 40px;width: 30%;border-radius: 6px;background-color: #00fff1;border: none;}
+.color-duo-photo{
+}
+.color-duo-photo img{
+}
+
+/* =======================niser part==================== */
+#niser{
+    display: inline-block;
+}
+.niser-cobi{
+}
+.niser-cobi img{padding-left: 29px;margin-bottom: -73px;}
+.niser-line{
+}
+.niser-line img{
+    
+padding-left: 161px;
+}
+/* .niser-line ul{padding-top: 133px;}
+.niser-line li{list-style: none;}
+.niser-line a{text-decoration: none;box-shadow: 1px 1px 5px;}
+.niser-line i{
+}
+.niser-line p{
+}
+.baler{
+
+} */
+
+/* ===============iphone android=============== */
+#iphone{
+    
+background: #f5f6fa;
+    
+display: inline-block;
+}
+.kajkorena{
+}
+.iphone-writing-part{
+
+text-align: end;
+
+padding-top: 125px;
+}
+.iphone-writing-part h2{
+
+padding-right: 50px;
+
+padding-bottom: 23px;
+}
+.iphone-writing-part img{
+
+padding-right: 50px;
+}
+.iphone-writing-part p{
+    
+padding-right: 50px;
+    
+padding-top: 24px;
+    
+color: #97a4be;
+}
+.android{
+
+}
+.android img{
+
+padding-left: 113px;
+}
+/* ==================video part====================== */
+#video{
+
+}
+.video-part{
+
+text-align: center;
+
+background: #223047;
+
+padding-bottom: 15px;
+
+padding-top: 41px;
+}
+.video-icon-part{
+
+}
+.video-icon-part i{text-align: center;padding-top: 113px;color: aqua;font-size: 54px;}
+.video-writing-part{
+
+width: 42%;
+
+margin: auto;
+
+text-align: center;
+}
+.video-writing-part h2{
+
+padding-bottom: 26px;
+
+padding-top: 31px;
+
+color: white;
+}
+.video-writing-part p{
+
+padding-bottom: 100px;
+
+color: white;
+}
+/* ====================Download Part==================== */
+#downloadone{
+
+}
+.downloadone-part{
+
+}
+.downloadone-writing-part{
+
+text-align: center;
+
+height: 472px;
+
+padding-top: 63px;
+}
+.downloadone-writing-part h2{
+
+padding-top: 108px;
+}
+.downloadone-writing-part p{
+
+padding-top: 17px;
+
+padding-bottom: 5px;
+}
+.downloadone-writing-part button{margin: 38px;margin-bottom: 99px;background-color: #00fff1;padding: 9px 27px;border: none;
+    border-radius: 5px;box-shadow: 3px 7px 10px #078981;}
+
+/* ==================Just Writing Part==================== */
+#justwrite{
+
+}
+.justwrite-part{
+
+background: #223047;
+
+height: 430px;
+}
+.justwrite-writing-part{
+
+}
+.justwrite-writing-part p{
+
+width: 60%;
+
+margin: auto;
+
+color: #00fff1;
+
+text-align: center;
+
+padding-top: 176px;
+
+padding-bottom: 140px;
+}
+/* =====================PlayStore Part==================== */
+#playstore{
+
+}
+.play-pto-part{
+
+}
+.play-pto-part img{
+
+padding-left: 160px;
+
+animation-delay: 5s;
+
+animation-direction: alternate;
+
+height: 536px;
+
+padding-top: 79px;
+}
+.playstore-writing-part{
+
+}
+.playstore-writing-part h2{
+
+padding-top: 134px;
+}
+.playstore-writing-part p{
+
+width: 66%;
+
+padding-top: 30px;
+
+color: #97a4be;
+}
+.playstore-writing-part img{
+
+padding-top: 40px;
+
+height: 83px;
+}
+.playstore-applestore{
+    
+background: #f5f6fa;
+    
+height: 567px;
+}
+.playstore-btn-part{
+
+width: 13%;
+
+margin: auto;
+
+text-align: center;
+}
+.playstore-btn-part button{padding: 12px;background-color: #00fff0;box-shadow: 7px 6px 10px #80e5df;border: none;}
+.playstore-btn-part button:hover{
+    color: #00fff0;
+    background-color: black;
+    box-shadow: 11px 16px 30px #0eb3a9;
+    /* padding: 15px; */
+    padding-left: 18px;
+    
+}
+/* =====================footer Part=================== */
+#footer{
+
+}
+.footer-part{
+
+display: inline-block;
+
+width: 90%;
+
+margin-left: 180px;
+
+margin-top: 96px;
+}
+.company-part{
+
+}
+.company-part h3{
+    padding-bottom: 24px;
+}
+.company-part a{
+
+text-decoration: none;
+
+color: black;
+}
+.company-part h5{
+
+padding-bottom: 15px;
+}
+.footer-count-part{
+
+margin-bottom: 80px;
+}
+.count-writing-part{
+
+width: 50%;
+
+margin: auto;
+
+text-align: center;
+}
+.count-writing-part h2{
+
+padding-top: 115px;
+}
+.count-writing-part p{
+
+padding-top: 20px;
+
+padding-bottom: 40px;
+
+color: #97a4be;
+}
+.footer-count-part-form{
+
+width: 31%;
+
+margin: auto;
+}
+.footer-count-part-form label{
+
+}
+.footer-count-part-form input{
+
+padding: 12px;
+
+padding-right: 97px;
+
+margin-right: 12px;
+
+background-color: #d1d1d4;
+
+border: none;
+
+color: green;
+}
+.footerpartar{
+
+}
+.company-part h5 a{
+
+color: #97a4be;
+}
+.footer-count-part button{
+    
+padding: 11px 17px;
+    
+background-color: #00fff0;
+    
+box-shadow: 7px 6px 15px #069189;
+    
+border: none;
+    
+border-radius: 3px;
+}
+/* =======================END===================  */
+.end{
+
+background-color: #223047;
+}
+.end-part{
+
+}
+.end-writing-part{
+
+}
+.end-writing-part h5{
+
+padding-top: 20px;
+
+padding-left: 160px;
+
+color: #00fff1;
+}
+.end-icon-part{
+
+}
+.end-icon-part i{
+
+margin: 17px;
+}
+.end-icon-part a i{
+    
+padding-left: 6px;
+    
+color: white;
+}
+.all-button-color:hover{
+    color: #00fff0;
+    background-color: black;
+    box-shadow: 11px 16px 30px #0eb3a9;
+    /* padding: 15px; */
+    /* padding-left: 15px; */
+    cursor: pointer;
+    transition: 1.2s;
+}
+.all-writing-part:hover{
+    color: #00ff08;
+    text-shadow: 4px 4px 4px #00ff5a;
+    cursor: pointer;
+    font-size: medium;
+    transition: 1.2s;
+}
+.devolopment-partar:hover{
+    color: #ff0000;
+    text-shadow: 4px 4px 4px #f74d4d;
+    cursor: pointer;
+    font-size: 22px;
+    transition: 1.2s;
+}
+.end-partar-logo:hover{
+    color: #0400ff;
+    text-shadow: 4px 4px 4px #16fa01;
+    cursor: pointer;
+    transition: 1.2s;
+}
+.prothom-partar-kaj:hover{
+    color: #00ff2a;
+    text-shadow: 4px 4px 4px #76f06b;
+    cursor: pointer;
+    background-color: #323a4d;
+    box-shadow: 10px 10px 20px #3d5488;
+    transition: 1.2s;
+}
